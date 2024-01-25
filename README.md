@@ -33,7 +33,10 @@
   
   
 <h2 align="center"> ✨My Github Stats✨ </h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gyoungDeok-Seo&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyoungDeok-Seo&layout=compact"></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gyoungDeok-Seo&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyoungDeok-Seo&layout=compact">
+</p>
   
 <!---
 gyoungDeok-Seo/gyoungDeok-Seo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
